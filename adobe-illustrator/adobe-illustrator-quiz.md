@@ -21,7 +21,7 @@
 #### Q3. Why would you use the Save Selection command?
 - [ ] to preserve vector copies of objects you plan to rasterize
 - [ ] to save copies of selected objects in a new file
-- [ ] to preserve a selection of objects you may use again
+- [x] to preserve a selection of objects you may use again
 - [ ] to save selected objects in a Creative Cloud library
 
 #### Q4. Which action closes a path when you are actively drawing with the Pen tool?
